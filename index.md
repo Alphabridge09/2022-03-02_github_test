@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 연습용 깃헙
 
 You can use the [editor on GitHub](https://github.com/Alphabridge09/2022-03-02_github_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
